@@ -1,5 +1,5 @@
 streamlit
 groq
-PyPDF2
 requests
-Pillow
+PyPDF2
+python-dotenv
