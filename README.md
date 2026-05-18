@@ -76,7 +76,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-https://your-app-name.streamlit.app
+[https://your-app-name.streamlit.app](https://intellinotes-ai-dzk6q3xo76bugyny6mbhnq.streamlit.app/)
 
 ---
 
